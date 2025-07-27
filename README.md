@@ -5,4 +5,4 @@ cd بيش-جارد
 # ضع ملفاتك هنا (index.html, script.js, الخ)
 git add .
 git commit -m "أول رفع للملفات"
-git push origin main
+git push origin mail
